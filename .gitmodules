@@ -1,0 +1,3 @@
+[submodule "Hoteleria-Backend"]
+	path = Hoteleria-Backend
+	url = https://github.com/Marroquin-2019551/Hoteleria-Back.git
